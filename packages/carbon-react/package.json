@@ -67,7 +67,7 @@
     "babel-plugin-dev-expression": "^0.2.2",
     "browserslist-config-carbon": "^10.6.1",
     "css-loader": "^5.2.4",
-    "mini-css-extract-plugin": "^1.6.0",
+    "mini-css-extract-plugin": "^2.5.3",
     "postcss": "^8.2.14",
     "postcss-custom-properties": "^11.0.0",
     "postcss-loader": "4",
