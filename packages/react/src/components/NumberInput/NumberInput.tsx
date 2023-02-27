@@ -209,7 +209,7 @@ const NumberInput = React.forwardRef(function NumberInput(
     invalid = false,
     invalidText,
     light,
-    max = 100,
+    max = Infinity,
     min = 0,
     onChange,
     onClick,
